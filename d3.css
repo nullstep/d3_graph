@@ -1,0 +1,49 @@
+/* d3 plugin admin css */
+
+#d3-form .tab-content {
+	padding: 15px 0 0 15px;
+}
+
+#d3-form .form-block {
+	margin-top: 5px;
+}
+
+#d3-form .form-block-ns {
+	margin-top: 1px;
+}
+
+#d3-form .d3-tab {
+	display: none;
+}
+
+#d3-form input[type=text] {
+	margin-top: 4px;
+	width: 218px;
+}
+
+#d3-form label {
+	display: block;
+}
+
+#d3-form select {
+	margin-top: 4px;
+	width: 218px;
+}
+
+#d3-form textarea {
+	margin-top: 4px;
+	width: 350px;
+	height: 200px;
+}
+
+#d3-form .choose-colour-button {
+	position: relative;
+	height: 30px;
+	bottom: -4px;
+}
+
+.CodeMirror {
+	border: 1px solid #ddd;
+}
+
+/* EOF */
